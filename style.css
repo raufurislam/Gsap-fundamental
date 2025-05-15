@@ -12,8 +12,15 @@ body {
 body {
   background-color: #111;
 }
-#box {
+
+#box1 {
   height: 300px;
   width: 300px;
   background-color: crimson;
+}
+
+#box2 {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(20, 220, 87);
 }
